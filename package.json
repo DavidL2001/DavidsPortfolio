@@ -1,7 +1,7 @@
 {
-  "name": "DavidsPortfolio",
+  "name": "davidsportfolio",
   "private": false,
-  "homepage": "https://DavidL2001.github.io/",
+  "homepage": "https://DavidL2001.github.io/DavidsPortfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
